@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Combat 3D.sln"
+    "dotnet.defaultSolution": "combat-rpg-3d.sln"
 }
